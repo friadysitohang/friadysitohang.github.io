@@ -1,0 +1,65 @@
+body {
+    background-image: url("Home_Banner_Header.png");
+    background-repeat: repeat-y;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #849696;
+}
+
+
+.header {
+    text-align: center;
+    font-family: 'Ramabhadra', sans-serif;
+    color: white;
+}
+.navigation {
+    position:relative;
+    top: 20px;
+    padding: 10px;
+    background-color: white;
+    box-sizing: border-box;
+    margin: -20px;
+    align-content: center;
+    align-items: center;
+}
+.navigation a, .navigation li, .navigation img {
+    float: left;
+    display: flex;
+    color: white;
+    padding: 1px 10px;  
+    text-decoration: none !important;
+    font-family:'Roboto', sans-serif;
+    white-space: nowrap;
+    line-height: 20px;
+    display: flex;
+    box-shadow: none;
+    position: relative;
+    bottom: 20px;
+    font-weight:600;
+    font-size: 17px;
+    color: #004E78;
+    position: relative;
+    
+}
+.content img {
+    position: relative;
+    right: 350px;
+    top: 70px;
+}
+h3 {
+    font-family: 'Roboto Sans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    background-color: #004E78;
+}
+p {
+    font-family: 'Roboto Sans', sans-serif;
+    color: white;
+    text-align: center;
+}
+#number {
+    color:#e89000 !important;
+}
+
